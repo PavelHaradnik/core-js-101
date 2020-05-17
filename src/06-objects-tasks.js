@@ -180,4 +180,3 @@ module.exports = {
   fromJSON,
   cssSelectorBuilder,
 };
-
